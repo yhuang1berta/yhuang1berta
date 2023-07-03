@@ -29,6 +29,6 @@ I am Ye, a year 3 student in University of Hong Kong.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhuang1berta&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
 </a>
 
-![](https://leetcard.jacoblin.cool/yhuang1?ext=activity&width=640)
+![](https://leetcard.jacoblin.cool/yhuang1?ext=activity&width=800)
 
 
