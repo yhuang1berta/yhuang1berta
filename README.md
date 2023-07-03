@@ -7,16 +7,27 @@
 ![Ye's GitHub stats][<img>](https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhuang1berta&layout=compact)](https://github.com/yhuang1berta/github-readme-stats)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 -->
 
 
 I am Ye, a year 3 student in University of Hong Kong.
 
-- :hammer_and_pick: C / C++ / Java / Python / HTML + CSS + JS
+<div height=200 align="center">
+- :desktop_computer: Javascript/ React.js/ Node.js/ MySQL/ HTML + CSS
+- :books:/:cloud: Python / Pytorch / Pandas / Spark / MSSQL
 - :pencil2: [Android App](https://github.com/Henryyy-Hung/HKU-COMP3330-AGrade) / [Shell](https://github.com/Henryyy-Hung/HKU-COMP3230-Shell) / [Software](https://github.com/Henryyy-Hung/HKU-COMP3278-StudentCenter) / [Web Spider](https://github.com/Henryyy-Hung/Web-Crawler-of-Chinese-Fiction)
-- :seedling: Currently learning Networking, Web, Algorithm
+- :seedling: Currently learning Cloud + Data Streaming + Scala
 - 📫 Contact Email: `huangye990330@gmail.com`
 <br>
+</div>
+
+
+
+<a href="https://github.com/yhuang1berta/github-readme-stats">
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/yhuang1" />
+</a>
 
 <a href="https://github.com/yhuang1berta/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent" />
