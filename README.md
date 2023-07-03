@@ -31,8 +31,6 @@
 
 ![](https://leetcard.jacoblin.cool/yhuang1?ext=activity&width=500)
 
-<a href="https://github.com/yhuang1berta/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhuang1berta&layout=donut-vertical&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhuang1berta&layout=donut-vertical&langs_count=8&card_width=300&theme=transparent&hide_border=true" />
 
 
