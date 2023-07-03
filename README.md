@@ -1,6 +1,6 @@
 ## Hi! Ye here! :wave:
 
-[< img align="right" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=yhuang1berta&theme=transparent">](https://github.com/yhuang1berta)
+< img align="right" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=yhuang1berta&theme=transparent">
 
 I am Ye, a year 3 student in University of Hong Kong.
 
