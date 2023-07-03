@@ -31,10 +31,6 @@
 
 ![](https://leetcard.jacoblin.cool/yhuang1?ext=activity&width=500)
 
-<div height=200 width=200>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yhuang1berta&repo=personal_site)](https://github.com/yhuang1berta/personal_site)
-</div>
-
 
 
 
