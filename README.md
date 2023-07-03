@@ -2,7 +2,11 @@
 
 ![Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhuang1berta&layout=donut-vertical)](https://github.com/yhuang1berta/github-readme-stats)
 
 I am Ye, a year 3 student in University of Hong Kong.
 
@@ -13,10 +17,4 @@ I am Ye, a year 3 student in University of Hong Kong.
 <br>
 
 
-<!--
-各种数据
-[< img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=transparent">](https://github.com/Henryyy-Hung)
 
-最近使用的语言
-[< img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryyy-Hung&layout=compact&theme=transparent">]((https://github.com/Henryyy-Hung)
--->
