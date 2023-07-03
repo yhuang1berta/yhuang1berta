@@ -1,17 +1,20 @@
 ## Hi! Ye here! :wave:
 
-[< img align="right" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=transparent">](https://github.com/Henryyy-Hung)
+<a href="https://github.com/yhuang1berta/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yhuang1berta" />
+</a>
+<a href="https://github.com/yhuang1berta/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhuang1berta&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 
 <!--
 ![Ye's GitHub stats][<img>](https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhuang1berta&layout=compact)](https://github.com/yhuang1berta/github-readme-stats)
 -->
 
-[< img align="right" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent">](https://github.com/Henryyy-Hung)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhuang1berta&layout=compact)](https://github.com/yhuang1berta/github-readme-stats)
 
 I am Ye, a year 3 student in University of Hong Kong.
 
