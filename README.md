@@ -1,6 +1,7 @@
 ## Hi! Ye here! :wave:
 
-![Ye's GitHub stats][<img>](https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent)
+[< img align="right" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=transparent">](https://github.com/Henryyy-Hung)
+
 
 <!--
 ![Ye's GitHub stats][<img>](https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent)
@@ -8,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-< img align="right" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent">(https://github.com/Henryyy-Hung)
+[< img align="right" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent">](https://github.com/Henryyy-Hung)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhuang1berta&layout=compact)](https://github.com/yhuang1berta/github-readme-stats)
 
