@@ -2,7 +2,7 @@
 
 ![Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent)
 
-[< img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryyy-Hung&layout=compact&theme=transparent">]((https://github.com/Henryyy-Hung)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 I am Ye, a year 3 student in University of Hong Kong.
 
