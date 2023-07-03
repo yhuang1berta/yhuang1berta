@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhuang1berta&layout=donut-vertical)](https://github.com/yhuang1berta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhuang1berta&layout=pie&theme=transparent)](https://github.com/yhuang1berta/github-readme-stats)
 
 I am Ye, a year 3 student in University of Hong Kong.
 
