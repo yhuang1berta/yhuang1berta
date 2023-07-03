@@ -1,6 +1,6 @@
 ## Hi! Ye here! :wave:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent)
 
 I am Ye, a year 3 student in University of Hong Kong.
 
