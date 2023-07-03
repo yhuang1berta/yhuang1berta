@@ -1,11 +1,5 @@
 ## Hi! Ye here! :wave:
 
-<a href="https://github.com/yhuang1berta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yhuang1berta" />
-</a>
-<a href="https://github.com/yhuang1berta/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhuang1berta&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 
 
@@ -24,5 +18,11 @@ I am Ye, a year 3 student in University of Hong Kong.
 - 📫 Contact Email: `huangye990330@gmail.com`
 <br>
 
+<a href="https://github.com/yhuang1berta/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yhuang1berta&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/yhuang1berta/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhuang1berta&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 
 
