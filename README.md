@@ -12,7 +12,7 @@
 -->
 
 
-I am Ye, a year 3 student in University of Hong Kong.
+<br> I am Ye, a year 3 student in University of Hong Kong.
 
 - :desktop_computer: Javascript/ React.js/ Node.js/ MySQL/ HTML + CSS
 - :books:/:cloud: Python / Pytorch / Pandas / Spark / MSSQL
@@ -31,7 +31,7 @@ I am Ye, a year 3 student in University of Hong Kong.
 
 ![](https://leetcard.jacoblin.cool/yhuang1?ext=activity&width=500)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yhuang1berta&repo=personal_site)](https://github.com/yhuang1berta/personal_site)
 
 
 
