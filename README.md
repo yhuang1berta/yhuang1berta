@@ -14,8 +14,8 @@
 
 <br> I am Ye, a year 3 student in University of Hong Kong.
 
-- :desktop_computer: Javascript/ React.js/ Node.js/ MySQL/ HTML + CSS
-- :books:/:cloud: Python / Pytorch / Pandas / Spark / MSSQL
+- :desktop_computer: : Javascript/ React.js/ Node.js/ MySQL/ HTML + CSS
+- :books:/:cloud: : Python / Pytorch / Pandas / Spark / MSSQL
 - :pencil2: [Android App](https://github.com/Henryyy-Hung/HKU-COMP3330-AGrade) / [Shell](https://github.com/Henryyy-Hung/HKU-COMP3230-Shell) / [Software](https://github.com/Henryyy-Hung/HKU-COMP3278-StudentCenter) / [Web Spider](https://github.com/Henryyy-Hung/Web-Crawler-of-Chinese-Fiction)
 - :seedling: Currently learning Cloud + Data Streaming + Scala
 - 📫 Contact Email: `huangye990330@gmail.com`
