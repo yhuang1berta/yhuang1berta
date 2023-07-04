@@ -29,6 +29,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhuang1berta&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
 </a>
 
-![](https://leetcard.jacoblin.cool/jacoblincool?animation=false)
-
 
