@@ -15,7 +15,6 @@
 
 
 <br> I am Ye, a new graduate who just finished my MSc degree in [Big Data Technolog (BDT)](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt) at the Hong Kong University of Science and Technology.
-
 <br> Before pursuing my master's degree, I finished my undergraduate degree in Computer Science & Applied Statistics at the University of Toronto
 
 - :desktop_computer: : Javascript/ React.js/ Node.js/ MySQL/ HTML + CSS
