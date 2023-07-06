@@ -17,9 +17,9 @@
 <br> I am Ye, a new graduate who just finished my MSc degree in [Big Data Technolog (BDT)](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt) at the Hong Kong University of Science and Technology.
 <br> Before pursuing my master's degree, I finished my undergraduate degree in Computer Science & Applied Statistics at the University of Toronto
 
-- :desktop_computer: : Javascript/ React.js/ Node.js/ MySQL/ HTML + CSS
-- :books:/:cloud: : Python / Pytorch / Pandas / Spark / MSSQL
-- :seedling: Currently learning Cloud + Data Streaming + Scala
+- :desktop_computer: : Javascript/ React.js/ Node.js/ MySQL / HTML + CSS
+- :books:/:cloud: : Python / Pytorch / Pandas / Spark / Azure
+- :seedling: Currently learning Cloud + Data Streaming
 - 📫 Contact Email: `huangye990330@gmail.com`
 <br>
 
